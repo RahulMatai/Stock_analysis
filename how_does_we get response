@@ -1,0 +1,9 @@
+client.converse() — sends your prompt to Claude Haiku on Bedrock and waits for response.
+response["output"]["message"]["content"][0]["text"] — the response comes back as a nested dictionary. Think of it like opening a box inside a box:
+
+output — the main output box
+message — the message inside it
+content — list of content blocks
+[0] — first content block
+text — the actual text Claude wrote
+
