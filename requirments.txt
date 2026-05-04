@@ -1,0 +1,9 @@
+boto3
+yfinance
+pandas
+requests
+faiss-cpu
+streamlit
+langchain
+langchain-text-splitters
+langchain-community
