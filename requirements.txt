@@ -7,3 +7,4 @@ streamlit
 langchain
 langchain-text-splitters
 langchain-community
+yfinance
